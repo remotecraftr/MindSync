@@ -161,3 +161,4 @@ Make sure you have the following installed before setting up the project:
 
 For any queries related to the project you can mail me at vedant.webb@gmail.com or my friend Mohammed at mohammedrupawala8@gmail.com
 # chore(init): initialize project structure
+# docs(readme): add project documentation and setup guide
